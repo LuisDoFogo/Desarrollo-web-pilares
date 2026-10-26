@@ -1,0 +1,7 @@
+﻿# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración local del editor
+.vscode/
